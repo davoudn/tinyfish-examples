@@ -1,0 +1,5 @@
+# Required for python/raw_http.py
+requests
+
+# Required for python/sdk.py and python/pipeline.py (official TinyFish SDK)
+tinyfish
